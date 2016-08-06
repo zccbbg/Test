@@ -1,0 +1,15 @@
+/target/
+/.settings/
+.project
+.classpath
+.idea
+.DS_STORE
+CRM-DBDesign.mwb.bak
+/**/*.iml
+.class
+
+/src/main/resources/*.xml
+/src/main/resources/*.properties
+/src/test/java/com/kashuo/junit/
+/src/test/java/com/kashuo/tests/
+/target/
